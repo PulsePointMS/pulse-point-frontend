@@ -1,2 +1,3 @@
-# pulse-point-frontend
-PPP1
+# Pulse Point Portal Frontend
+
+Upload to GitHub and deploy via Vercel.
